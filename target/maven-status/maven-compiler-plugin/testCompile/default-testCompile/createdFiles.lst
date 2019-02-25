@@ -1,0 +1,10 @@
+DispatcherServletTest.class
+SomeControllerClassWithAVoidMethod.class
+SomeControllerClassWithAMethod.class
+JacksonDatabindTest$Car.class
+controllers/PokemonTypeControllerTest.class
+repositories/PokemonTypeRepositoryTest.class
+SomeControllerClass.class
+SomeEmptyClass.class
+SomeOtherControllerClass.class
+JacksonDatabindTest.class
